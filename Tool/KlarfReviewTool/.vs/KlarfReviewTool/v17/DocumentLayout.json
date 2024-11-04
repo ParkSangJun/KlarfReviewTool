@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tkdwn\\OneDrive\\Desktop\\KlarfReviewTool\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{227FCE8B-6B1B-4DFB-8ACF-1C64E1588CE7}|KlarfReviewTool.csproj|c:\\users\\tkdwn\\onedrive\\desktop\\klarfreviewtool\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{227FCE8B-6B1B-4DFB-8ACF-1C64E1588CE7}|KlarfReviewTool.csproj|solutionrelative:viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{227FCE8B-6B1B-4DFB-8ACF-1C64E1588CE7}|KlarfReviewTool.csproj|C:\\Users\\tkdwn\\OneDrive\\Desktop\\KlarfReviewTool\\viewmodel\\tool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{227FCE8B-6B1B-4DFB-8ACF-1C64E1588CE7}|KlarfReviewTool.csproj|solutionrelative:viewmodel\\tool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{227FCE8B-6B1B-4DFB-8ACF-1C64E1588CE7}|KlarfReviewTool.csproj|C:\\Users\\tkdwn\\OneDrive\\Desktop\\KlarfReviewTool\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{227FCE8B-6B1B-4DFB-8ACF-1C64E1588CE7}|KlarfReviewTool.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{227FCE8B-6B1B-4DFB-8ACF-1C64E1588CE7}|KlarfReviewTool.csproj|C:\\Users\\tkdwn\\OneDrive\\Desktop\\KlarfReviewTool\\model\\die.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{227FCE8B-6B1B-4DFB-8ACF-1C64E1588CE7}|KlarfReviewTool.csproj|solutionrelative:model\\die.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{227FCE8B-6B1B-4DFB-8ACF-1C64E1588CE7}|KlarfReviewTool.csproj|C:\\Users\\tkdwn\\OneDrive\\Desktop\\KlarfReviewTool\\model\\dielist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{227FCE8B-6B1B-4DFB-8ACF-1C64E1588CE7}|KlarfReviewTool.csproj|solutionrelative:model\\dielist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{227FCE8B-6B1B-4DFB-8ACF-1C64E1588CE7}|KlarfReviewTool.csproj|C:\\Users\\tkdwn\\OneDrive\\Desktop\\KlarfReviewTool\\model\\defectlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{227FCE8B-6B1B-4DFB-8ACF-1C64E1588CE7}|KlarfReviewTool.csproj|solutionrelative:model\\defectlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{227FCE8B-6B1B-4DFB-8ACF-1C64E1588CE7}|KlarfReviewTool.csproj|C:\\Users\\tkdwn\\OneDrive\\Desktop\\KlarfReviewTool\\model\\defect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{227FCE8B-6B1B-4DFB-8ACF-1C64E1588CE7}|KlarfReviewTool.csproj|solutionrelative:model\\defect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Defect.cs",
+              "DocumentMoniker": "C:\\Users\\tkdwn\\OneDrive\\Desktop\\KlarfReviewTool\\Model\\Defect.cs",
+              "RelativeDocumentMoniker": "Model\\Defect.cs",
+              "ToolTip": "C:\\Users\\tkdwn\\OneDrive\\Desktop\\KlarfReviewTool\\Model\\Defect.cs",
+              "RelativeToolTip": "Model\\Defect.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAxwBsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T14:39:53.951Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Defectlist.cs",
+              "DocumentMoniker": "C:\\Users\\tkdwn\\OneDrive\\Desktop\\KlarfReviewTool\\Model\\Defectlist.cs",
+              "RelativeDocumentMoniker": "Model\\Defectlist.cs",
+              "ToolTip": "C:\\Users\\tkdwn\\OneDrive\\Desktop\\KlarfReviewTool\\Model\\Defectlist.cs",
+              "RelativeToolTip": "Model\\Defectlist.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T14:39:57.365Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Die.cs",
+              "DocumentMoniker": "C:\\Users\\tkdwn\\OneDrive\\Desktop\\KlarfReviewTool\\Model\\Die.cs",
+              "RelativeDocumentMoniker": "Model\\Die.cs",
+              "ToolTip": "C:\\Users\\tkdwn\\OneDrive\\Desktop\\KlarfReviewTool\\Model\\Die.cs",
+              "RelativeToolTip": "Model\\Die.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T14:39:57.965Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dielist.cs",
+              "DocumentMoniker": "C:\\Users\\tkdwn\\OneDrive\\Desktop\\KlarfReviewTool\\Model\\Dielist.cs",
+              "RelativeDocumentMoniker": "Model\\Dielist.cs",
+              "ToolTip": "C:\\Users\\tkdwn\\OneDrive\\Desktop\\KlarfReviewTool\\Model\\Dielist.cs",
+              "RelativeToolTip": "Model\\Dielist.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T14:39:58.528Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tool.cs",
+              "DocumentMoniker": "C:\\Users\\tkdwn\\OneDrive\\Desktop\\KlarfReviewTool\\VIewModel\\Tool.cs",
+              "RelativeDocumentMoniker": "VIewModel\\Tool.cs",
+              "ToolTip": "C:\\Users\\tkdwn\\OneDrive\\Desktop\\KlarfReviewTool\\VIewModel\\Tool.cs",
+              "RelativeToolTip": "VIewModel\\Tool.cs",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAgwLwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T14:40:01.063Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\tkdwn\\OneDrive\\Desktop\\KlarfReviewTool\\VIewModel\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "VIewModel\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\tkdwn\\OneDrive\\Desktop\\KlarfReviewTool\\VIewModel\\MainViewModel.cs",
+              "RelativeToolTip": "VIewModel\\MainViewModel.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwC4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T14:40:00.481Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\tkdwn\\OneDrive\\Desktop\\KlarfReviewTool\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\tkdwn\\OneDrive\\Desktop\\KlarfReviewTool\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-09T14:40:07.2Z",
+              "IsPinned": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
